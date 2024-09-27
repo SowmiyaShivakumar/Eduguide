@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99866291593",
+    "project_id": "eduguide-db320",
+    "storage_bucket": "eduguide-db320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99866291593:android:3ad6238f7e522f7d700558",
+        "android_client_info": {
+          "package_name": "com.example.eduguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99866291593-g3ca1evtnj5h705jpaiqo950qm0t041d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eduguide",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "99866291593-u3j25d44drm21384d4ij7apt2g4e7o9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBZ9cLirGIGX4hiDYlySYE23ENU9YCFmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99866291593-u3j25d44drm21384d4ij7apt2g4e7o9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
